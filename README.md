@@ -1,6 +1,6 @@
 # Hệ Thống Cảnh Báo Cháy Dựa Trên ESP32
 
-Đây là dự án xây dựng một hệ thống cảnh báo cháy sử dụng ESP32, tích hợp các cảm biến khói, khí gas, hồng ngoại, nhiệt Ascendancy nhiệt độ và độ ẩm (DHT11), cùng với khả năng gửi dữ liệu thời gian thực qua WiFi tới một server Node.js để giám sát từ xa.
+Đây là dự án xây dựng một hệ thống cảnh báo cháy sử dụng ESP32, tích hợp các cảm biến khói, khí gas, hồng ngoại, nhiệt độ và độ ẩm (DHT11), cùng với khả năng gửi dữ liệu thời gian thực qua WiFi tới một server Node.js để giám sát server local.
 
 ## Tính Năng
 - **Cảm biến**: 
